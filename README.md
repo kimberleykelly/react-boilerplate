@@ -31,6 +31,7 @@
 - css-loader v6.x
 - style-loader v6.x
 - webpack-dev-server (development) v4.x
+- dotenv v16.x
 
 
 ## Authors
